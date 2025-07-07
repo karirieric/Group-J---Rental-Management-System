@@ -1,0 +1,18 @@
+# Rental Management System Requirements
+# Group J - BSD 2302 Python Programming
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Image Processing
+pillow>=9.0.0
+
+# Optional: For enhanced features (uncomment if needed)
+# tkinter-calendar>=1.5.1
+# matplotlib>=3.5.0
+# pandas>=1.3.0
+
+# Development tools (optional)
+# pytest>=6.0.0
+# black>=22.0.0
+# flake8>=4.0.0
