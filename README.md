@@ -170,7 +170,7 @@ The system implements core OOP principles:
 1. **Import Errors**
 
    ```bash
-   pip install customtkinter pillow
+   pip install tkinter pillow
    ```
 
 2. **Database Issues**
