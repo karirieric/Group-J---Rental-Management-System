@@ -40,22 +40,22 @@ A comprehensive Python GUI application for managing rental properties, built usi
 
 ```
 rental-management-system/
-├── Main.py                 # Main application file
-├── database.py            # Database setup and management
-├── setup_and_run.py       # Setup and launch script
-├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
-├── models/               # OOP model classes
+├── Main.py                 
+├── database.py            
+├── setup_and_run.py       
+├── requirements.txt       
+├── README.md             
+├── models/               
 │   ├── user.py
 │   ├── administrator.py
 │   ├── tenant.py
 │   ├── property.py
 │   ├── lease.py
 │   └── rent_payment.py
-├── admin_bg.png          # Admin dashboard background
-├── tenant_bg.png         # Tenant dashboard background
-├── logo.png              # Application logo
-└── rental_management.db  # SQLite database (auto-generated)
+├── admin_bg.png          
+├── tenant_bg.png         
+├── logo.png              
+└── rental_management.db  
 ```
 
 ## Quick Start
